@@ -1,4 +1,4 @@
-
+# The following process is followed for getting and cleaning the data for the samsung wearable device
 
 # 1. Merge the training and the test sets to create one data set.
 
